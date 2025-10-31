@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Lesson-AndroidIntroduction-2"
 include(":app")
+include(":myapplication")
